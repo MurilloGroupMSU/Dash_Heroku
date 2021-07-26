@@ -1,1 +1,1 @@
-web: gunicorn dash_foo:server
+web: gunicorn foofoo:server
